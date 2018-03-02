@@ -5,6 +5,6 @@ public class SampleTest
   @Test
   public void SampleTest()
   {
-	  System.out.println("execute sample test");
+	  System.out.println("execute sample test new");
   }
 }
